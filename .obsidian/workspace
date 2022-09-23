@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "7583b3c18041773c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd3fe6689e165439",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notion/library.tags.coffee.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9310981f6fdadbfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c8da604e464d34b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc62813e87cb9ec2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad51df1e16818139",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3814de3dc67870e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de9fd0df8d513f4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "980abbbe96a99db0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ca6e7f10f5410f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notion/library.tags.coffee.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14e02c1582f690a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notion/library.tags.coffee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b972f9ef59fdb29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26b74d6e4c72f2e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notion/library.tags.coffee.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fd3fe6689e165439",
+  "lastOpenFiles": [
+    "Notion/library.tags.food.md",
+    "Notion/library.tags.md",
+    "Notion/library.areas.md",
+    "Notion/home.journal.md",
+    "Notion/home.md",
+    "Notion/library.tags.coffee.md",
+    "Notion/library.md",
+    "Notion/Dates/2022-09-15.md",
+    "Notion/Dates/2022-09-16.md",
+    "Notion/Users/3243242342343.md"
+  ]
+}
