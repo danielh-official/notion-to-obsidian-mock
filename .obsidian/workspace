@@ -7,8 +7,12 @@
         "id": "fd3fe6689e165439",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Vault/Notion/Pages/Coffee-b8c154bd097c4434baf4e9bfa19bf97d.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vault/Notion/Pages/Coffee-b8c154bd097c4434baf4e9bfa19bf97d.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vault/Notion/Pages/Coffee-b8c154bd097c4434baf4e9bfa19bf97d.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Vault/Notion/Pages/Coffee-b8c154bd097c4434baf4e9bfa19bf97d.md"
+              }
             }
           }
         ]
@@ -122,15 +130,15 @@
   },
   "active": "fd3fe6689e165439",
   "lastOpenFiles": [
-    "Vault/Notion/Pages/Home-838387094c0849639171f439169656dd.md",
-    "Vault/Notion/Pages/Coffee-b8c154bd097c4434baf4e9bfa19bf97d.md",
     "Vault/Notion/Pages/da1caf415e434c258e8b0b3917dbc864?v=f7f4b2d0c7bf4511b7ce751b37de8a4a.md",
-    "Vault/Notion/Pages/f6e1ed8e10784f8388b3b18107e88907?v=45fd7b096bac4af3ad724650eaece6ff.md",
     "Vault/Notion/Pages/Food-7673f26d5373430bb3f18ec251ec51e5.md",
     "Vault/Notion/Pages/Journal-dc97771677584320a67be746b79ade9c.md",
     "Vault/Notion/Pages/Library-cc9ff9bb5b944e6aacd84f06577b5ce9.md",
     "Vault/Notion/Pages/Pizza-24b5acaf12304ebb9e5641a8b96db1aa.md",
+    "Vault/Notion/Pages/f6e1ed8e10784f8388b3b18107e88907?v=45fd7b096bac4af3ad724650eaece6ff.md",
+    "Vault/Notion/Pages/Coffee-b8c154bd097c4434baf4e9bfa19bf97d.md",
     "Vault/Notion/Users/3243242342343.md",
-    "README.md"
+    "Vault/Notion/Dates/2022-09-16.md",
+    "Vault/Notion/Dates/2022-09-15.md"
   ]
 }
